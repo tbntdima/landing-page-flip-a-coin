@@ -1,3 +1,3 @@
 # React based coin flip game
 
-Built with 'create-react-app'
+[live website](https://www.p7campaign.com/landing/flip-a-coin-w1)
