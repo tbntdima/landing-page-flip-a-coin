@@ -1,0 +1,52 @@
+.terms {
+  position: absolute;
+  z-index: 30;
+  right: 0; bottom: 0; left: 0;
+  transform: translateY(100%);
+  width: 100%;
+  padding-top: 1.5rem;
+  background: #262626;
+  color: #e7ecf3;
+  transition: .5s;
+
+  &--visible {
+    transform: translateY(0);
+  }
+
+  &__button {
+    position: absolute;
+    top: 0; left: 50%;
+    width: 160px; height: 35px;
+    transform: translateX(-50%) translateY(-100%);
+    padding-top: 8px;
+    border: none;
+    background: url('./images/background.png') no-repeat;
+    outline: none;
+    color: #6d6d6d;
+    font-size: 19px;
+    font-weight: bold;
+    text-transform: uppercase;
+    cursor: pointer;
+    &:focus {
+      outline: none;
+    }
+    &::before {
+      content: '';
+      display: block;
+      position: absolute;
+      top: 50%; left: 26px;
+      transform: translateY(-40%);
+      width: 14px; height: 14px;
+      background: url('./images/star.png') no-repeat;
+    }
+    &::after {
+      content: '';
+      display: block;
+      position: absolute;
+      top: 50%; right: 26px;
+      transform: translateY(-40%);
+      width: 14px; height: 14px;
+      background: url('./images/star.png') no-repeat;
+    }
+  }
+}

@@ -1,0 +1,32 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  margin-top: -3px;
+  max-width: 100vw;
+}
+
+body {
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+img {
+  max-width: 100%;
+}
+
+.text {
+  &--accent {
+    text-shadow: 0 0 10px #0e360d;
+    color: #ffff00;
+    font-size: 22px;
+    font-weight: 700;
+    text-transform: uppercase;
+    @media(max-width: 768px) {
+      font-size: 22px;
+    }
+    @media(max-width: 576px) {
+      font-size: 20px;
+    }
+  }
+}

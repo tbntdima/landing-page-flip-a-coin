@@ -1,0 +1,32 @@
+.curtains {
+  position: absolute;
+  z-index: 3;
+  top: 0; right: 0; bottom: 0; left: 0;
+  width: 100%; height: 100%;
+  overflow: hidden;
+  background: #011F33 center center / cover no-repeat;
+}
+
+.curtain {
+  position: absolute;
+  transform: translateX(0) translateY(0);
+
+  &--left {
+    z-index: 4;
+    top: 0; left: -10%;
+    width: 63%; height: 100%;
+    background: url('./images/curtain-left.png') center right / cover no-repeat;
+    @media (max-width: 576px) {
+      width: 65%;
+    }
+  }
+  &--right {
+    z-index: 5;
+    top: 0; right: -10%;
+    width: 60%; height: 100%;
+    background: url('./images/curtain-right.png') center left / cover no-repeat;
+    @media (max-width: 576px) {
+      width: 65%;
+    }
+  }
+}

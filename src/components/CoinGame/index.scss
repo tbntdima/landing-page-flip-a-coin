@@ -1,0 +1,28 @@
+.coin-game {
+  position: relative;
+  overflow: hidden;
+  &__content {
+    position: relative;
+    z-index: 10;
+    text-align: center;
+    min-height: 100vh;
+  }
+  &__logo {
+    max-width: 255px;
+    min-height: 80px;
+  }
+  &__title {
+    min-height: 100px;
+  }
+  &__slogan {
+    margin-top: -50px;
+    @media (max-width: 768px) {
+      margin-top: 50px;
+    }
+    span {
+      @media (max-width: 768px) {
+        display: block;
+      }
+    }
+  }
+}

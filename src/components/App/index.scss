@@ -1,0 +1,10 @@
+.app {
+  position: relative;
+
+  &__coin-game {
+    position: relative;
+    z-index: 1;
+    min-height: 100vh;
+    overflow: hidden;
+  }
+}
