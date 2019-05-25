@@ -2,7 +2,7 @@
   "name": "coin-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://www.p7campaign.com/landing/flip-a-coin-w1",
+  "homepage": "https://dmitriyaa.github.io/react-flip-a-coin-game/",
   "dependencies": {
     "bootstrap": "^4.2.1",
     "gsap": "^2.0.2",
