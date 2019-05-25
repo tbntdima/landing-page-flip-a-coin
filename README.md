@@ -1,3 +1,3 @@
-# React based coin flip game
+# React based landing page/interactive game
 
-[live website](https://www.p7campaign.com/landing/flip-a-coin-w1)
+Check out @ [live website](https://dmitriyaa.github.io/react-flip-a-coin-game)
