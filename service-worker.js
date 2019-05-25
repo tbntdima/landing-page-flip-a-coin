@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/landing/flip-a-coin-w1/precache-manifest.b5cbaedbda1dea9671c88fda1e91da63.js"
+  "/react-flip-a-coin-game/precache-manifest.3974255d2dacae36b0512f392fbba4e5.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/landing/flip-a-coin-w1/index.html", {
+workbox.routing.registerNavigationRoute("/react-flip-a-coin-game/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
