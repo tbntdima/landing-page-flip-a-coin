@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/react-flip-a-coin-game/precache-manifest.3974255d2dacae36b0512f392fbba4e5.js"
+  "/react-flip-a-coin-game/precache-manifest.cdb3baa2959dba0c273ed38f3ca5d12f.js"
 );
 
 workbox.clientsClaim();

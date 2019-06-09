@@ -1,19 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "49b10266c4b29398726a",
-    "url": "/react-flip-a-coin-game/static/css/main.174edc72.chunk.css"
+    "revision": "1dec4f3b4c1511bfbb3e",
+    "url": "/react-flip-a-coin-game/static/css/main.8922f485.chunk.css"
   },
   {
-    "revision": "49b10266c4b29398726a",
-    "url": "/react-flip-a-coin-game/static/js/main.49b10266.chunk.js"
+    "revision": "1dec4f3b4c1511bfbb3e",
+    "url": "/react-flip-a-coin-game/static/js/main.1dec4f3b.chunk.js"
   },
   {
-    "revision": "9998823ef3976e1091de",
-    "url": "/react-flip-a-coin-game/static/css/1.77b23a4b.chunk.css"
+    "revision": "e7e112c61ac7425c2523",
+    "url": "/react-flip-a-coin-game/static/css/1.d05d1a53.chunk.css"
   },
   {
-    "revision": "9998823ef3976e1091de",
-    "url": "/react-flip-a-coin-game/static/js/1.9998823e.chunk.js"
+    "revision": "e7e112c61ac7425c2523",
+    "url": "/react-flip-a-coin-game/static/js/1.e7e112c6.chunk.js"
   },
   {
     "revision": "b026076191e92775be94",
@@ -112,28 +112,24 @@ self.__precacheManifest = [
     "url": "/react-flip-a-coin-game/static/media/curtain-right.132f7730.png"
   },
   {
-    "revision": "017e9c0f3a95776921fe842768ebd7d9",
-    "url": "/react-flip-a-coin-game/static/media/coin-glow.017e9c0f.png"
-  },
-  {
     "revision": "e6f82fd380f02e22514c588407168a60",
     "url": "/react-flip-a-coin-game/static/media/coin-stars.e6f82fd3.png"
+  },
+  {
+    "revision": "017e9c0f3a95776921fe842768ebd7d9",
+    "url": "/react-flip-a-coin-game/static/media/coin-glow.017e9c0f.png"
   },
   {
     "revision": "c4f6d4afc165b5a7e96d5fb47edac8a1",
     "url": "/react-flip-a-coin-game/static/media/default.c4f6d4af.png"
   },
   {
-    "revision": "ea49840d46217df6ad1c9edca5f47038",
-    "url": "/react-flip-a-coin-game/static/media/promo-table-left.ea49840d.svg"
-  },
-  {
     "revision": "f6358d5a7a5421e4b8b1901af59b997d",
     "url": "/react-flip-a-coin-game/static/media/promo-table-right.f6358d5a.svg"
   },
   {
-    "revision": "44d7b2312bbd3ff2fe44768cf7b9b041",
-    "url": "/react-flip-a-coin-game/static/media/promo-header.44d7b231.svg"
+    "revision": "ea49840d46217df6ad1c9edca5f47038",
+    "url": "/react-flip-a-coin-game/static/media/promo-table-left.ea49840d.svg"
   },
   {
     "revision": "24cc86911e815619ac6b3786ef2fd9d4",
@@ -144,6 +140,10 @@ self.__precacheManifest = [
     "url": "/react-flip-a-coin-game/static/media/promo-footer.7278b07f.svg"
   },
   {
+    "revision": "44d7b2312bbd3ff2fe44768cf7b9b041",
+    "url": "/react-flip-a-coin-game/static/media/promo-header.44d7b231.svg"
+  },
+  {
     "revision": "9714cf48e4048f2da3a34fbce882bb93",
     "url": "/react-flip-a-coin-game/static/media/arrow-right.9714cf48.svg"
   },
@@ -152,7 +152,7 @@ self.__precacheManifest = [
     "url": "/react-flip-a-coin-game/static/media/close.04086754.svg"
   },
   {
-    "revision": "e95b87b3f4c4ce4f654b3c1544917b71",
+    "revision": "c4ca1e4f4485cd1607e5944d4fb87ec2",
     "url": "/react-flip-a-coin-game/index.html"
   }
 ];
