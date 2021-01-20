@@ -5,7 +5,7 @@
   "homepage": "https://dmitriyaa.github.io/react-flip-a-coin-game/",
   "dependencies": {
     "bootstrap": "^4.2.1",
-    "gsap": "^2.0.2",
+    "gsap": "^3.6.0",
     "node-sass": "^4.11.0",
     "react": "^16.7.0",
     "react-app-polyfill": "^0.2.1",
